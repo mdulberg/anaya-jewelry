@@ -1,0 +1,135 @@
+[
+  {
+    "id": "anaya-01",
+    "slug": "luna-pearl-drop",
+    "name": "Luna Pearl Drop Earrings",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Drop",
+    "size": "28 mm drop",
+    "image": ["Product_Images/1.1.JPG", "Product_Images/1.2.JPG"],
+    "badge": "New",
+    "description": "Handmade drop earrings with luminous freshwater pearls and a touch of cubic zirconia sparkle.",
+    "details": [
+      "Crafted in Ireland in small batches",
+      "Secure leverback closure",
+      "Polished finish with anti-tarnish coating",
+      "Lightweight for all-day wear"
+    ]
+  },
+  {
+    "id": "anaya-02",
+    "slug": "aurora-pearl-dangle",
+    "name": "Aurora CZ Pearl Dangles",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Dangle",
+    "size": "9 mm face",
+    "image": "Product_Images/2.JPG",
+    "badge": "New",
+    "description": "Glossy pearl dangles framed by petite cubic zirconia, perfect for effortless shine.",
+    "details": [
+      "Butterfly back for a secure fit",
+      "Ethically sourced stones",
+      "Mirror-polished setting",
+      "Comes with velvet keepsake pouch"
+    ]
+  },
+  {
+    "id": "anaya-03",
+    "slug": "solstice-circle-dangle",
+    "name": "Solstice Circle Dangles",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Dangle",
+    "size": "12 mm face",
+    "image": ["Product_Images/3.1.JPG", "Product_Images/3.2.JPG"],
+    "badge": "Limited",
+    "description": "Dual-tone circles with pavé CZ to echo the phases of the moon in shimmering gold.",
+    "details": [
+      "Two-tone 925 silver",
+      "Hand-set pavé stones",
+      "Hypoallergenic posts",
+      "Limited seasonal capsule"
+    ]
+  },
+  {
+    "id": "anaya-04",
+    "slug": "eden-pendant-dangle",
+    "name": "Eden Pendant Dangles",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Dangle",
+    "size": "10 mm face",
+    "image": "Product_Images/4.JPG",
+    "badge": "Everyday",
+    "description": "Petite pendant-inspired dangles with a soft halo glow and luminous center stone.",
+    "details": [
+      "Rounded edges for comfort",
+      "Nickel-safe alloy",
+      "Matte-sheen finish",
+      "Pairs beautifully with layered chains"
+    ]
+  },
+  {
+    "id": "anaya-05",
+    "slug": "cascade-drop",
+    "name": "Cascade Drop Earrings",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Drop",
+    "size": "30 mm drop",
+    "image": "Product_Images/5.JPG",
+    "badge": "New",
+    "description": "Tapered drop earrings that flow with light-catching facets for a soft, dancing shimmer.",
+    "details": [
+      "Open-back settings amplify light",
+      "Featherweight silhouette",
+      "Hand-finished ear wires",
+      "Gift-boxed and ready to give"
+    ]
+  },
+  {
+    "id": "anaya-06",
+    "slug": "noir-emerald-dangle",
+    "name": "Noir Emerald Dangles",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Dangle",
+    "size": "8 mm face",
+    "image": "Product_Images/6.JPG",
+    "badge": "Bestseller",
+    "description": "Classic 925 silver dangles with deep emerald-toned stones framed in a clean, modern setting.",
+    "details": [
+      "Prong-set emerald-toned stones",
+      "Secure butterfly backs",
+      "High-polish rhodium finish",
+      "Designed to mix with hoops or drops"
+    ]
+  },
+  {
+    "id": "anaya-07",
+    "slug": "amethyst-dawn-dangle",
+    "name": "Amethyst Dawn Dangle",
+    "price": 5,
+    "currency": "EUR",
+    "metal": "925 Silver",
+    "style": "Dangle",
+    "size": "32 mm drop",
+    "image": "Product_Images/7.JPG",
+    "badge": "New",
+    "description": "Light-catching amethyst-toned dangles with a slender gold silhouette for everyday glow.",
+    "details": [
+      "Polished 925 silver with protective coating",
+      "Featherweight design for day-long comfort",
+      "Secure leverback closure",
+      "Gift-ready box included"
+    ]
+  }
+]
